@@ -2,7 +2,6 @@
 	path = node-mongo-api-boilerplate-templates
 	url = https://github.com/code-collabo/node-mongo-api-boilerplate-templates
 	branch = develop
-	update = merge
 [submodule "node-mongo-cli"]
 	path = node-mongo-cli
 	url = https://github.com/code-collabo/node-mongo-cli
