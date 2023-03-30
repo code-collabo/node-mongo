@@ -1,8 +1,0 @@
-[submodule "node-mongo-api-boilerplate-templates"]
-	path = node-mongo-api-boilerplate-templates
-	url = https://github.com/code-collabo/node-mongo-api-boilerplate-templates
-	branch = develop
-[submodule "node-mongo-cli"]
-	path = node-mongo-cli
-	url = https://github.com/code-collabo/node-mongo-cli
-	branch = develop
