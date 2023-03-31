@@ -1,3 +1,3 @@
 [submodule "node-mongo-api-boilerplate-templates"]
 	path = node-mongo-api-boilerplate-templates
-	url = git@github.com:code-collabo/node-mongo-api-boilerplate-templates.git
+	url = https://github.com/code-collabo/node-mongo-api-boilerplate-templates
