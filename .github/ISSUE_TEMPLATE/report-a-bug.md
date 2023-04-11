@@ -27,7 +27,7 @@ Add screenshots to help explain your problem if needed.
 Add any other context about the problem here.
 
 #### Testing checklist
-Note: Add the checklist below (without this note) to your pull request when submitting your fix. This will guide contributors who will review your fix to know what is important to check or test for.
+Note: Add the testing checklist below (without this note) to your pull request when submitting your fix. This will guide (you and) the contributors who will review your fix to know what is important to check or test for.
 - [ ] Add checklist item 1 here
 - [ ] Add cheklist item 2 here... Continue adding as much checklist items as you would like
 - [ ] I certify that I ran my checklist
