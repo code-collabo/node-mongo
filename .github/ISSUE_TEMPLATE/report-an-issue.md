@@ -1,6 +1,6 @@
 ---
 name: Report an issue
-about: Incase you are reporting a problem but "bug" is just not the right word to use while describing it
+about: Incase you are reporting a problem but "bug" is just not the right word to use while describing it.
 labels: issue
 title:
 assignee:
