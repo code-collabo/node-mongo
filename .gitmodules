@@ -1,4 +1,0 @@
-[submodule "node-mongo-api-boilerplate-templates"]
-	path = node-mongo-api-boilerplate-templates
-	url = ../node-mongo-api-boilerplate-templates.git
-	branch = develop
