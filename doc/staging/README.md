@@ -43,19 +43,19 @@ After installing globally, use the node-mongo command.
 node-mongo
 ```
 
-#### Show CLI help
+### Show CLI help
 
 ```
 node-mongo --help
 ```
 
-#### CLI usage
+### CLI usage
 
 ```
 node-mongo <folder_name> <template>
 ```
 
-#### CLI usage example
+### CLI usage example
 
 Replace \<folder\_name> with your preferred folder name. Replace \<template> with any of these: ts, esm, or cjs. The example below will bootstrap the ts template i.e. the typescript template into a folder named test-folder.
 
@@ -63,7 +63,7 @@ Replace \<folder\_name> with your preferred folder name. Replace \<template> wit
 node-mongo test-folder ts
 ```
 
-#### CLI flags
+### CLI flags
 
 ```
 -h, --help          Show help
@@ -75,10 +75,10 @@ node-mongo test-folder ts
 -y, --yes           See note on --yes flag below
 ```
 
-#### CLI prompts
+### CLI prompts
 
 If you do not specify one or both arguments above, you will be prompted to add your folder name and/or choose template option from list. For foldername, you can choose to use the default foldername provided in the prompt or type in your preferred folder name.
 
-#### CLI skip prompts
+### CLI skip prompts
 
 No prompt when --yes flag is used. It skips both install and git init, and uses esm template as default if no template is specified or if template entered is not in the template collection. In the case of folder name, default foldername is used if no folder name is specified or when folder name already exists.
