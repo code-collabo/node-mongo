@@ -4,7 +4,7 @@
 
 <!-- [![NPM Downloads](https://img.shields.io/npm/dy/@code-collabo/node-mongo-cli?color=blue)](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) -->
 
-# 
+<hr/>
 
 **Supported node versions:** node v12.x to v18.x
 
