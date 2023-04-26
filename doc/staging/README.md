@@ -16,7 +16,7 @@ The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli)
 
 #### CLI
 
-* CLI bootstraps the typescript, es module, or common js (a.k.a. ts, esm, cjs) templates for nodejs mongoDB web app development.
+* CLI bootstraps the typescript, es module, or common js (a.k.a. ts, esm, cjs) templates for nodejs mongoDB development.
 * Install dependencies and initialize git for the template bootstrapped or choose to skip them.
 * Folders are automatically created based on user entry in the prompt or command line.
 * The default folder name is used and incremented if the folder name provided already exists.
