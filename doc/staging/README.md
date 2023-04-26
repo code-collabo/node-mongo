@@ -61,10 +61,10 @@ node-mongo <folder_name> <template>
 
 #### CLI usage example
 
-Replace \<folder\_name> with your preferred folder name. Replace \<template> with any of these: esm, cjs or ts (note: the ts template is not available yet). The example below will bootstrap the cjs template i.e. the common js template into a folder named test-folder.
+Replace \<folder\_name> with your preferred folder name. Replace \<template> with any of these: esm, cjs or ts. The example below will bootstrap the ts template i.e. the typescript template into a folder named test-folder.
 
 ```
-node-mongo test-folder cjs
+node-mongo test-folder ts
 ```
 
 #### CLI flags
