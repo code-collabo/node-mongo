@@ -1,65 +1,75 @@
 # node-mongo CLI
 
-[![npm version](https://badge.fury.io/js/%40code-collabo%2Fnode-mongo-cli.svg)](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) [![Npm package total downloads](https://badgen.net/npm/dt/@code-collabo/node-mongo-cli?color=blue)](https://npmjs.com/package/@code-collabo/node-mongo-cli) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/node-mongo/contribution-guide/development-mode) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/code-collabo/node-mongo-cli/blob/develop/LICENSE/README.md) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/node-mongo-cli?color=red)](https://github.com/code-collabo/node-mongo-cli/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/node-mongo-cli?color=goldenrod)](https://github.com/code-collabo/node-mongo-cli/pulls)
+[![All Contributors](https://img.shields.io/badge/CLI%20contributors-10-orange)](https://github.com/code-collabo/node-mongo-cli#contributors-) [![npm version](https://badge.fury.io/js/%40code-collabo%2Fnode-mongo-cli.svg)](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) [![Npm package total downloads](https://badgen.net/npm/dt/@code-collabo/node-mongo-cli?color=blue)](https://npmjs.com/package/@code-collabo/node-mongo-cli) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/node-mongo/contribution-guide/development-mode) [![CLI license: AGPL 3.0](https://img.shields.io/badge/CLI%20licence-AGPL%203.0-blue)](https://github.com/code-collabo/node-mongo-cli/blob/develop/LICENSE) [![API boilerplate templates license: ISC](https://img.shields.io/badge/API%20templates%20licence-ISC-blue)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/blob/develop/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/node-mongo?color=red)](https://github.com/code-collabo/node-mongo/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/node-mongo-cli?color=goldenrod)](https://github.com/code-collabo/node-mongo-cli/pulls)
 
-**Supported node versions:** node v12.x to v16.x
+<!-- [![NPM Downloads](https://img.shields.io/npm/dy/@code-collabo/node-mongo-cli?color=blue)](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) -->
 
-**Operating Systems:** Mac OS and Windows OS
+# 
 
-The **node-mongo** project has 3 main projects:
+**Supported node versions:** node v12.x to v18.x
 
-* The [node-mongo CLI](https://github.com/code-collabo/node-mongo-cli) to bootstrap boilerplate templates.
-* 3 boilerplate templates for nodejs and/or mongoDB development.
-* Demo CRUD app to test connection and show example usage of the templates.
+# 
 
-## CLI Features
+**Operating Systems:** Mac, Windows and Linux OS
+
+#
+
+Parent repo: [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
+
+#
+
+The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) is a command-line interface made with nodejs. It bootstraps any of the node-mongo API boilerplate templates for your nodejs and/or mongoDB development, depending on which one you prefer:
+- [Typescript template](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/ts)
+- [ES module template](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/esm)
+- [Commonjs template](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/cjs)
+
+## Features
 
 ![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
 
-* CLI bootstraps the esm, cjs or ts templates for nodejs and/or mongoDB development.
-* Install dependencies and intialize git for the template bootstrapped or choose to skip them.
-* Folders are automatically created based on user entry in prompt or command-line.
-* Default folder name is provided and incremented if name already exists.
+### CLI
+- CLI bootstraps the esm, cjs or ts templates for nodejs and/or mongoDB development.
+- Install dependencies and intialize git for the template bootstrapped or choose to skip them.
+- Folders are automatically created based on user entry in prompt or command-line.
+- Default folder name is provided and incremented if name already exists.
 
-## **CLI Installation**
+### API boilerplate templates
+- Now uses MVC architecture pattern i.e. separated route, model, controller and service files. 
+- Development environment already set up with @babel (for esm template only), eslint and server watch.
+- Default connection setup type: MongoDB Atlas. But you get to choose if you want to use it or switch to Local mongoDB connection setup type. 
 
-Install [node-mongo CLI](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) globally with this command:
-
-```
+## CLI installation
+Install CLI globally with this command:
+````
 npm install -g @code-collabo/node-mongo-cli
-```
+````
 
-## Command
-
+## CLI command
 After installing globally, use the node-mongo command.
-
-```
+````
 node-mongo
-```
+````
 
-### Show help
-
-```
+### Show CLI help
+````
 node-mongo --help
-```
+````
 
-### Usage
-
-```
+### CLI usage
+````
 node-mongo <folder_name> <template>
-```
+````
 
-### Usage example
-
+### CLI usage example
+Replace <folder_name> with your preferred folder name.
+Replace \<template> with any of these: esm, cjs or ts (note: the ts template is not available yet).
 The example below will bootstrap the cjs template i.e. the common js template into a folder named test-folder.
-
-```
+````
 node-mongo test-folder cjs
-```
+````
 
-### Flags
-
-```
+### CLI flags
+````
 -h, --help          Show help
 -v, --version       Show version number
 -i, --install       Install dependencies
@@ -67,12 +77,19 @@ node-mongo test-folder cjs
 -s, --skip-install  Skip installing dependencies
 -x, --skip-git      Skip initializing git
 -y, --yes           See note on --yes flag below
-```
+````
 
-### Prompts
+### CLI prompts
+If you do not specify one or both arguments above,
+you will be prompted to add your folder name and/or
+choose template option from list. For foldername, you
+can choose to use the default foldername provided in
+the prompt or type in your preferred folder name.
 
-If you do not specify one or both arguments above, you will be prompted to add your folder name and/or choose template option from list. For folder name, you can choose to use the default folder name provided in the prompt or type in your preferred folder name.
-
-### Skip prompts
-
-No prompt when --yes flag is used. It skips both install and git init, and uses esm template as default if no template is specified or if template entered is not in the template collection. In the case of folder name, default folder name is used if no folder name is specified or when folder name already exists.
+### CLI skip prompts
+No prompt when --yes flag is used. It skips both
+install and git init, and uses esm template as default
+if no template is specified or if template entered is
+not in the template collection. In the case of folder
+name, default foldername is used if no folder name is
+specified or when folder name already exists.
