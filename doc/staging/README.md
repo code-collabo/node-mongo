@@ -6,7 +6,7 @@
 
 **Operating Systems:** Mac, Windows and Linux OS
 
-Parent repo: [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
+**Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
 The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) is a command-line interface made with nodejs. It bootstraps any of the node-mongo API boilerplate templates for your nodejs and/or mongoDB development, depending on which one you prefer:
 
