@@ -1,7 +1,7 @@
 # Node mongo
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Node mongo** is the group name for the [@code-collabo](https://github.com/code-collabo) projects listed below: 
@@ -26,6 +26,7 @@ Thanks to these amazing contributors to the node-mongo (documentation) project. 
   <tbody>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt="@Ifycode"/><br /><sub><b>@Ifycode</b></sub></a><br /><a href="https://github.com/code-collabo/node-mongo/commits?author=Ifycode" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#infra-all-contributors" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/samuko-things"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="https://github.com/code-collabo/node-mongo/commits?author=samuko-things" title="Documentation">📖</a></td>
     </tr>
   </tbody>
