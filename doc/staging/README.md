@@ -8,6 +8,10 @@
 
 **Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
+{% hint style="info" %}
+The latest version of CLI generates API boilerplate templates v1.0.0
+{% endhint %}
+
 The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) is a Command Line Interface made with nodejs. It bootstraps any of the [node-mongo API boilerplate templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates) for your nodejs mongoDB development, depending on your preference.
 
 ### Features

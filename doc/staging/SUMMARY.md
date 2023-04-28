@@ -5,7 +5,7 @@
 
 ## contribution guide
 
-* [Community contribution guide](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing)
+* [Collabo community contribution guide](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing)
 * [Node mongo contribution guide](contribution-guide/development-mode.md)
 
 ## contributors
@@ -24,3 +24,7 @@
 
 * [Report issue as a product user](https://github.com/code-collabo/node-mongo-cli/issues/new/choose)
 * [Report new issue as a contributor or fix existing issue](https://github.com/code-collabo/node-mongo/issues)
+
+## Collabo community gitter chat
+
+* [Join collabo community's gitter channel for node mongo projects](https://matrix.to/#/#collabo-node-mongo:gitter.im)
