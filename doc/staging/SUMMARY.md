@@ -6,7 +6,7 @@
 ## contribution guide
 
 * [Collabo community contribution guide](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing)
-* [Node mongo contribution guide](contribution-guide/development-mode.md)
+* [Node mongo contribution guide](contribution-guide/node-mongo.md)
 
 ## contributors
 
