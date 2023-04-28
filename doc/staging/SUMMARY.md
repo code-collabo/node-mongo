@@ -1,7 +1,7 @@
 # Table of contents
 
 * [node-mongo CLI](README.md)
-* [API boilerplate templates](boilerplate-templates.md)
+* [API boilerplate templates](api-boilerplate-templates.md)
 
 ## contribution guide
 
