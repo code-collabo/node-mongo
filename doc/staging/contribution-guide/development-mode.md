@@ -1,4 +1,4 @@
-# Development mode
+# Node mongo contribution guide
 
 Love the project and wish to contribute? See the [git workflow](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing#git-workflow) section of the contribution guidelines page for how to set up project locally, and branching and other instructions. You can also reach out to [@Ifycode](https://github.com/Ifycode) in case you need any assistance. The sections below show how to run the node-mongo projects in development.
 
