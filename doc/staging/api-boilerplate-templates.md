@@ -2,7 +2,11 @@
 
 [![API boilerplate templates contributors](https://img.shields.io/badge/API%20templates%20contributors-5-orange)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates#contributors-) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/node-mongo-v2.0.0/contribution-guide/node-mongo) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/blob/develop/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/node-mongo?color=red)](https://github.com/code-collabo/node-mongo/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/node-mongo-api-boilerplate-templates?color=goldenrod)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/pulls)
 
-**Supported node versions:** node v12.x to v18.x
+{% hint style="info" %}
+node-mongo projects require you to have Node.js or Node Version Manager (NVM) installed on your computer
+{% endhint %}
+
+**Supported Node.js versions:** Node.js v12.x to v18.x
 
 **Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
