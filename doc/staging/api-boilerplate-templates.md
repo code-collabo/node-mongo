@@ -10,6 +10,13 @@ node-mongo projects require you to have Node.js or Node Version Manager (NVM) in
 
 **Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
+### Features
+* Three (3) API boilerplate templates to choose from i.e. typescript, es module, or common js templates (a.k.a. ts, esm, cjs) for your nodejs mongoDB development, depending on your preference.
+* API boilerplate templates now use the MVC architecture pattern i.e. separated route, model, controller, and service files.
+* Development environment already set up with @babel (for esm template only), eslint, and server watch.
+* The default connection setup type is MongoDB Atlas. But you get to choose if you want to use it or switch to the Local mongoDB connection setup type.
+* Improved user experience with the newly added walk-through prompts in the terminal: quick to setup, easy to use, with automated and improved user support.
+
 ### Download options
 
 {% tabs %}
