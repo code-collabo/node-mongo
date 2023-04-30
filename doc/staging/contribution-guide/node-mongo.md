@@ -39,9 +39,15 @@ npm unlink
 {% tab title="API boilerplate templates" %}
 Contributors are to run the project as described on the API boilerplate templates repo readme: [https://github.com/code-collabo/node-mongo-api-boilerplate-templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates)
 
+How to handle the `.env` files is different during code development:
+
+* Retain the `.env.example` file so that it doesn't get deleted from our repo when you are submitting your code fix
+* Create a copy of the `.env.example` file, rename this copy to `.env` , then change the `PORT` and add other environment variables to store your secrets as desired.
+
 #### Learning resources
 
 * [TomDoesTech: REST API with Node.js, Express, TypeScript, MongoDB & Zod](https://www.youtube.com/watch?v=BWUi6BS9T5Y).
+* [TomDoesTech: Module '"mongoose"' has no exported member 'DocumentDefinition'.ts (tutorial fixes)](https://www.youtube.com/watch?v=5-1KuU-21uI).
 * [Academind: Building a restful API with node.js](https://academind.com/tutorials/building-a-restful-api-with-nodejs/).
 * [CodAffection: MEAN stack CRUD operations](https://youtu.be/UYh6EvpQquw) - _1st 33 minutes_.
 {% endtab %}
