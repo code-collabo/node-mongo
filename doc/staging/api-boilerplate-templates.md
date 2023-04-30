@@ -48,6 +48,7 @@ npm install
 
 **Step 2**
 
+* Ensure you have internet connection
 * Have a mongoDB atlas cluster set up in the cloud
 * Get your atlas mongoDB uri string
 
