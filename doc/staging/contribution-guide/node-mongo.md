@@ -33,7 +33,7 @@ npm unlink
 #### Learning resources
 
 * [Twilio | Dominik Kundel: How to build a CLI with node.js](https://youtu.be/s2h28p4s-Xs) - _youTube video_.
-* [Twilio | Dominik Kundel: How to build a CLI with node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js) - blog post.
+* [Twilio | Dominik Kundel: How to build a CLI with node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js) _- blog post._
 {% endtab %}
 
 {% tab title="API boilerplate templates" %}
