@@ -13,7 +13,7 @@ node-mongo projects require you to have Node.js or Node Version Manager (NVM) in
 **Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
 {% hint style="info" %}
-CLI v2.0.0 - v2.3.0 generates API boilerplate templates v1.0.0
+CLI v2.3.0 generates API boilerplate templates v1.0.0
 {% endhint %}
 
 The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) is a Command Line Interface made with nodejs. It bootstraps any of the [node-mongo API boilerplate templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates) for your nodejs mongoDB development, depending on your preference.
