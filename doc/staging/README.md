@@ -6,14 +6,14 @@
 node-mongo projects require you to have Node.js or Node Version Manager (NVM) installed on your computer
 {% endhint %}
 
-**Supported Node.js versions:** Node.js v12.x to v18.x
+**Supported Node.js versions:** Node.js v16.x to v20.x
 
 **Operating Systems:** Mac, Windows, and Linux OS
 
 **Parent repo:** [code-collabo/node-mongo](https://github.com/code-collabo/node-mongo)
 
 {% hint style="info" %}
-CLI v2.0.0 generates API boilerplate templates v1.0.0
+CLI v2.0.0 - v2.3.0 generates API boilerplate templates v1.0.0
 {% endhint %}
 
 The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) is a Command Line Interface made with nodejs. It bootstraps any of the [node-mongo API boilerplate templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates) for your nodejs mongoDB development, depending on your preference.
@@ -81,13 +81,13 @@ node-mongo test-folder ts
 -g, --git           Initialize git repo
 -s, --skip-install  Skip installing dependencies
 -x, --skip-git      Skip initializing git
--y, --yes           See note on --yes flag below
+-y, --yes           No prompt: See note on --yes flag below
 ```
 
 ### CLI prompts
 
-If you do not specify one or both arguments above, you will be prompted to add your folder name and/or choose template option from list. For foldername, you can choose to use the default foldername provided in the prompt or type in your preferred folder name.
+If you do not specify one or both (foldername or template) arguments as shown above, you will be prompted to add your folder name and/or choose template option from list. For foldername, you can choose to use the default foldername provided in the prompt or type in your preferred folder name.
 
 ### CLI skip prompts
 
-No prompt when --yes flag is used. It skips both install and git init, and uses esm template as default if no template is specified or if template entered is not in the template collection. In the case of folder name, default foldername is used if no folder name is specified or when folder name already exists.
+No prompt when --yes flag is used. It skips both install and git init. The CLI will generate the (default) ts template if no template is specified or if the template entered is not in the template collection. In the case of folder name, default foldername is used if no folder name is specified or when the folder name used already exists.
