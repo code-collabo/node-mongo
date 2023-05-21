@@ -14,6 +14,8 @@ API boilerplate templates v1.0.0
 
 ### Features
 
+![node-mongo](https://github.com/KamiNation/node-mongo/blob/develop/doc/staging/node-mongo-cli.gif?raw=true)
+
 * Three (3) API boilerplate templates to choose from i.e. typescript, es module, or common js templates (a.k.a. ts, esm, cjs) for your nodejs mongoDB development, depending on your preference.
 * API boilerplate templates now use the MVC architecture pattern i.e. separated route, model, controller, and service files.
 * Development environment already set up with @babel (for esm template only), eslint, and server watch.
