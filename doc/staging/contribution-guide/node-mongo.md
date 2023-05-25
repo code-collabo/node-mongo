@@ -12,23 +12,48 @@ Contributors are to run the CLI commands and flags as described on the CLI repo 
 
 The method of installation is different during code development:
 
-1. Install dependencies
+1. clone the node-mongo-cli repo (you should fork it first)
+
+2. go to the root folder of the node-mongo cli repo cloned (where the package.json is located) 
+
+3. Install dependencies
 
 ```
 npm install
 ```
 
-2. Link after installing dependencies:
+4. Link after installing dependencies (i.e add to global packages):
 
 ```
 npm link
 ```
+or
+```
+npm install -g i .
+```
 
-3. Unlink (for when you are done developing):
+5. confirm if the node-mongo-cli package is installed globally:
 
+```
+npm list -g
+```
+you should see @code-collabo/node-mongo-cli as part of the listed global packages
+
+6. Unlink i.e remove the package globally (for when you are done developing):
+
+```
+npm uninstall -g @code-collabo/node-mongo-cli
+```
+or
 ```
 npm unlink
 ```
+7. confirm if the package has been uninstalled globally
+
+```
+npm list -g
+```
+you should not see @code-collabo/node-mongo-cli as part of the listed global packages
 
 #### Learning resources
 
