@@ -20,7 +20,7 @@ The [node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli)
 
 ### Features
 
-![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
+![node-mongo](https://github.com/KamiNation/node-mongo/blob/develop-branch/doc/staging/node-mongo-cli.gif?raw=true)
 
 #### CLI
 
