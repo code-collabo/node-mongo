@@ -16,6 +16,8 @@ Build backend applications for your projects with node-mongo. _This is a quick s
 * _**Supported Node.js versions:**_ Node js versions 16.x - 20.x
 {% endhint %}
 
+![node-mongo gif tutorial](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
+
 ***
 
 ## Install node-mongo CLI

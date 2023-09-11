@@ -12,8 +12,6 @@ _On this documentation page, you will find more details on node-mongo's features
 
 ## Features
 
-![node-mongo gif tutorial](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
-
 ### CLI features
 
 * CLI bootstraps the API boilerplate templates for nodejs mongoDB development.
