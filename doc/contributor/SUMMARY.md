@@ -1,9 +1,8 @@
 # Table of contents
 
-## node-mongo user docs
+## node-mongo contributor docs
 
-* [ℹ User guide: node-mongo setup, installation and usage](README.md)
-* [ℹ Reference Guide: node-mongo features and commands](node-mongo-user-docs/detailed-guide.md)
+* [ℹ Doc page not yet available](README.md)
 
 ## back to main docs
 
