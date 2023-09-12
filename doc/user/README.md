@@ -39,7 +39,7 @@ node-mongo test-folder ts
 ***
 
 {% hint style="info" %}
-See _**Detailed Guide: node-mongo features and commands**_ for more details on other types of templates you can generate apart from the typescript (ts) template. You can find this in the sidebar.
+See _**Reference Guide: node-mongo features and commands**_ for more details on other types of templates you can generate apart from the typescript (ts) template. You can find this in the sidebar.
 {% endhint %}
 
 ***
