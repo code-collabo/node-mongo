@@ -47,10 +47,10 @@ How to handle the `.env` files is different during code development:
 - Create a copy of the `.env.example` file, rename this copy to `.env` , then change the `PORT` and add other environment variables to store your secrets as desired.
 
 ### Learning Resources
-- [TomDoesTech: REST API with Node.js, Express, typescript, MongoDB $ Zod.](https://youtu.be/s2h28p4s-Xs)
-- [TomDoesTech: Module "mongoose" has no exported member 'DocumentDefinition'.ts (tutorial fixes).](https://youtu.be/s2h28p4s-Xs)
-- [Academind: Building a RESTFUL API with node.js](https://youtu.be/s2h28p4s-Xs)
-- [CodeAffection: MEAN stack CRUD operations](https://youtu.be/s2h28p4s-Xs) - first 33 minutes
+- [TomDoesTech: REST API with Node.js, Express, typescript, MongoDB $ Zod.](https://www.youtube.com/watch?v=BWUi6BS9T5Y)
+- [TomDoesTech: Module "mongoose" has no exported member 'DocumentDefinition'.ts (tutorial fixes).](https://www.youtube.com/watch?v=5-1KuU-21uI)
+- [Academind: Building a RESTFUL API with node.js](https://academind.com/tutorials/building-a-restful-api-with-nodejs/)
+- [CodeAffection: MEAN stack CRUD operations](https://youtu.be/UYh6EvpQquw) - first 33 minutes
 
 {% endtab %}
 {% endtabs %}
