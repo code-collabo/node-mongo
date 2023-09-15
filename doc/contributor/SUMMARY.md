@@ -2,7 +2,7 @@
 
 ## node-mongo contributor docs
 
-* [ℹ Doc page not yet available](README.md)
+* [ℹ Contributors guide: node-mongo setup and development](README.md)
 
 ## back to main docs
 
