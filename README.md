@@ -1,19 +1,16 @@
-# Node mongo
-
+# Node Mongo Project
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-**Node mongo** is the group name for the [@code-collabo](https://github.com/code-collabo) projects listed below: 
-- [code-collabo/node-mongo-cli](https://github.com/code-collabo/node-mongo-cli)
-- [code-collabo/node-mongo-api-boilerplate-templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates)
-- [code-collabo/node-mongo-scripts](https://github.com/code-collabo/node-mongo-scripts)
+#
+
+Learn how to use node-mongo projects from the [node-mongo user docs](https://code-collabo.gitbook.io/node-mongo-user/node-mongo-user-docs/readme) 
 
 #
-Submit improvement to any of the node mongo projects or find node mongo project issues to resolve here: https://github.com/code-collabo/node-mongo/issues
 
+Find out how to contribute to community and/or projects documentation in the **contributor docs** section of the [Code Collabo Community and projects documentation]()
 #
-Submit improvement for node mongo documentation, or find node mongo documentation issues to resolve here: https://github.com/code-collabo/docs/issues
 
 ## Contributors ✨
 
