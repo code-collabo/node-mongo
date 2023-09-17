@@ -9,7 +9,7 @@ Learn how to use node-mongo projects from the [node-mongo user docs](https://cod
 
 #
 
-Find out how to contribute to community and/or projects documentation in the **contributor docs** section of the [Code Collabo Community and projects documentation](https://code-collabo.gitbook.io/docs/collabo-docs-home/readme)
+Find out how to contribute to node-mongo projects in the **contributor docs** section of the [Code Collabo Community and projects documentation](https://code-collabo.gitbook.io/docs/collabo-docs-home/readme)
 
 ## Contributors ✨
 
