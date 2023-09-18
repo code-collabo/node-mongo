@@ -142,7 +142,7 @@ A "demo" setup exists in the generated backend API application i.e. `demo` datab
 <table><thead><tr><th width="252.33333333333331">METHOD /endpoint</th><th>Description</th><th align="center">Request body</th></tr></thead><tbody><tr><td>GET /demo</td><td>Get all demo items in the database</td><td align="center">No Request Body</td></tr><tr><td>POST /demo</td><td>Create/add new demo item to the database</td><td align="center">name, age</td></tr><tr><td>GET /demo/:demoId</td><td>Get a demo item stored in the database by its ID</td><td align="center">No Request Body</td></tr><tr><td>PATCH /demo/:demoId</td><td>Update the value of one property of an already existing demo item in the database, using the demo item's ID</td><td align="center">propName, value</td></tr><tr><td>PUT /demo/:id</td><td>Update all properties of an existing demo item in the database, using the demo item's ID</td><td align="center">name, age</td></tr><tr><td>DELETE /demo/:demoId</td><td>Delete a demo item from the database, using the demo item's ID</td><td align="center">No request body</td></tr></tbody></table>
 
 {% hint style="info" %}
-_**Volunteer:**_ Contribute to this doc. Help users know how they can add their own db collections, schemas, endpoints, files, etc. to the generated backend API application.
+_**Help needed (content not available yet):**_ Contribute to this doc. Help users know how they can add their own db collections, schemas, endpoints, files, etc. to the generated backend API application.
 {% endhint %}
 
 ***
@@ -333,5 +333,5 @@ Successful response shape
 </details>
 
 {% hint style="info" %}
-_**Volunteer:**_ Contribute to this doc and node-mongo API. Help create swagger documentation for testing API call requests and responses, and help link to this doc. Instead of what we have here now.
+_**Help needed (content not available yet):**_ Contribute to this doc and node-mongo API. Help create swagger documentation for testing API call requests and responses, and help link to this doc. Instead of what we have here now.
 {% endhint %}
