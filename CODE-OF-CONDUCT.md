@@ -1,0 +1,2 @@
+Hello Contributors, If you have any questions regarding the Code Collabo community's code of conduct. 
+You can find them here: https://code-collabo.gitbook.io/collabo-contributor/collabo-contributor-docs/code-of-conduct
