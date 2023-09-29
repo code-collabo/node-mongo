@@ -1,2 +1,1 @@
-Hello Contributors, If you have any questions regarding the Code Collabo community's code of conduct. 
-You can find them here: https://code-collabo.gitbook.io/collabo-contributor/collabo-contributor-docs/code-of-conduct
+Hello Contributors, You can find the community code of conduct in the contributor docs section of the Code Collabo Community and projects documentation here: https://code-collabo.gitbook.io/collabo-contributor/collabo-contributor-docs/code-of-conduct

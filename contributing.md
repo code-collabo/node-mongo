@@ -1,0 +1,1 @@
+Hello Contributors, You can find the community contributing guide in the contributor docs section of the Code Collabo Community and projects documentation here: https://code-collabo.gitbook.io/docs/collabo-docs-home/readme
